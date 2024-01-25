@@ -1,0 +1,31 @@
+.custom-text-primary {
+    color: #395B64;
+}
+
+.custom-text-secondary {
+    color: #A5C9CA;
+}
+
+.custom-text-light {
+    color: #E7F6F2;
+}
+
+.custom-text-dark {
+    color: #2C3333;
+}
+
+.custom-bg-primary {
+    background-color: #395B64;
+}
+
+.custom-bg-secondary {
+    background-color: #A5C9CA;
+}
+
+.custom-bg-light {
+    background-color: #E7F6F2;
+}
+
+.custom-bg-dark {
+    background-color: #2C3333;
+}
