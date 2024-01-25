@@ -10,6 +10,10 @@
     color: #E7F6F2;
 }
 
+.custom-text-light a:link {
+    color: #E7F6F2;
+}
+
 .custom-text-dark {
     color: #2C3333;
 }
