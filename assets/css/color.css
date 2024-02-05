@@ -1,31 +1,28 @@
-.custom-text-primary {
-    color: #395B64;
-}
-
-.custom-text-secondary {
-    color: #A5C9CA;
-}
-
 .custom-text-light {
-    color: #E7F6F2;
+    color: #e6e7eb;
 }
 
 .custom-text-dark {
-    color: #2C3333;
+    color: #444442;
 }
 
 .custom-bg-primary {
-    background-color: #395B64;
+    background-color: #0c5e69;
 }
 
 .custom-bg-secondary {
-    background-color: #A5C9CA;
+    background-color: #dfc5aa;
 }
 
 .custom-bg-light {
-    background-color: #E7F6F2;
+    background-color: #e6e7eb;
 }
 
 .custom-bg-dark {
-    background-color: #2C3333;
+    background-color: #444442;
+}
+
+.custom-btn-outline-light {
+    color: #e6e7eb;
+    border-color: #e6e7eb;
 }
